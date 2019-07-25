@@ -3,16 +3,16 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "keyVaultName": {
-      "value": "GEN-UNIQUE"
+      "value": "malli-key"
     },
     "objectId": {
-      "value": "GEN-AZUREAD-OBJECTID"
+      "value": "malli-key-OBJECTID"
     },
     "secretName": {
-      "value": "GEN-UNIQUE"
+      "value": "malli-key"
     },
     "secretValue": {
-      "value": "GEN-UNIQUE"
+      "value": "malli-key"
     }
   }
 }
